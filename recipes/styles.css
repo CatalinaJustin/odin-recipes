@@ -1,4 +1,4 @@
 body {
     background: linear-gradient(180deg, #FFEEEE, #DDEFBB);
-    height: fit-content;
+    max-height: fit-content;
 }
