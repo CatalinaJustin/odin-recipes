@@ -2,10 +2,18 @@ body {
     background: linear-gradient(180deg, #FFEEEE, #DDEFBB);
     max-height: fit-content;
 }
-img.block {
-    height: 300px;
-    width: auto;
-}
+
 h1 {
     text-align: center;
+    width: 100%;
+}
+.block {
+    width: 300px;
+    height: auto;
+
+}
+#header {
+    width: 100%;
+    text-align: center;
+    
 }
